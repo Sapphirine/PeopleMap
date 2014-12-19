@@ -1,4 +1,0 @@
-peopleMap
-=========
-
-Transportation Group: PeopleMap
